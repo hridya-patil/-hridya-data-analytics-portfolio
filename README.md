@@ -16,7 +16,7 @@ Final-year IT Engineering student building toward a career in **Data Analytics &
 
 | # | Project | Stack | Description | Status |
 |---|---|---|---|---|
-| 1 | *SQL Business Analysis* | SQL | 20 business questions solved on a real dataset using joins, CTEs & window functions | 🚧 In progress |
+| 1 | [*SQL Business Analysis*](./01-sql-business-analysis) | SQL | 20 business questions solved on a real dataset using joins, CTEs & window functions | ✅ Done |
 | 2 | *End-to-End EDA* | Python, Pandas, Matplotlib/Seaborn | Cleaned & analyzed a real-world dataset, published insights | 🚧 Coming soon |
 | 3 | *Interactive Power BI Dashboard* | Power BI, DAX | Star-schema data model with drill-through analysis | 🚧 Coming soon |
 | 4 | *Automated Data Pipeline with AI Summarization* | Python, SQL, LLM API | API → clean → load → AI-generated insight summaries | 🚧 Coming soon |
